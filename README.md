@@ -1,2 +1,2 @@
-# UnityPlatformer
-Simple Mario Clone
+# ZombieLand
+Super Mario clone with zombies
